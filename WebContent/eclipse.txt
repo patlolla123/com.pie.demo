@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=4.4.2
+Name=Eclipse Luna Java EE
+GenericName=IDE
+Comment=Eclipse IDE for Java EE Developers
+Exec=/opt/eclipse/eclipse
+Terminal=false
+Icon=/opt/eclipse/icon.xpm
+Type=Application
+Categories=Utility;Application;
